@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdministradorDeTareas</string>
+    <string name="TitleTask">All tasks completed</string>
+    <string name="TextTask">Nice work!</string>
+</resources>
